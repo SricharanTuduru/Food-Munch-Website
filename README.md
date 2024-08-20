@@ -59,4 +59,4 @@ For questions, feedback, or suggestions, please contact:
 
 #
 
-Thank you for exploring the Foodies E-Commerce Application ! We hope you find it useful and engaging.
+Thank you for exploring the Foodies E-Commerce Website ! We hope you find it useful and engaging.
