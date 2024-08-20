@@ -54,8 +54,8 @@ Here are some screenshots of the application:
 
 For questions, feedback, or suggestions, please contact:
 
-- *Email*: preethamreddy141@gmail.com
-- *GitHub*: [spreetham-reddy](https://github.com/spreetham-reddy)
+- *Email*: sricharantuduru26@gmail.com
+- *GitHub*: [SricharanTuduru](https://github.com/SricharanTuduru)
 
 #
 
